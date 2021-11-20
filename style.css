@@ -78,9 +78,9 @@ body {
     color: #4285F4;
 }
 
-a:visited,
-a:before,
-a:after {
+#nav-bar a:visited,
+#nav-bar a:before,
+#nav-bar a:after {
     color: #3b4252;
 }
 
